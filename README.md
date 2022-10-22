@@ -1,6 +1,6 @@
 <h1 align="center">Сайт горнолыжной и сноубордийской школы</h1> 
 <h3 align="center">Студентка группы ИВ1-21 Короткова Зоя. Проект на тему "Горнолыжная и сноубордийская школа"</h3>
-<img src="https://github.com/ZoiaKorotkova/project/blob/main/video.ycanadaoriginals.com%402045a190-bbdd-3f66-8706-ea4efa5b8403_FULL.jpg">
+<img src="https://github.com/ZoiaKorotkova/project_ski_and_snowboard_school/blob/TZ/025.jpg">
 <p align="center"><b>Инструкция по открытию диаграммы "Сайт горнолыжной и сноубордийской школы":</b></p>
 <ul>
   <li> Выбрать нужную ветку </li>
