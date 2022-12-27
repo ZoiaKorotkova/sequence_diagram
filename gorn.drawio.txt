@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T10:00:26.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="alj_j-je27IwHVj2L6iW" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T00:33:47.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Y9FlAUUNyXJQlh6G4NRo" version="20.7.4" type="github">
   <diagram id="qhsDJ91CU2YYItImqn5_" name="Страница 1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="froot2XyCKsrBdMIpFEI-1" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" parent="QBt9AMGsygYMLw9rFR8L-1" vertex="1">
           <mxGeometry x="35" y="1053" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QBt9AMGsygYMLw9rFR8L-1">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-1" vertex="1">
           <mxGeometry x="44" y="1000" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBt9AMGsygYMLw9rFR8L-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-12" vertex="1">
           <mxGeometry x="44" y="80" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QBt9AMGsygYMLw9rFR8L-12">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-12" vertex="1">
           <mxGeometry x="44" y="1000" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBt9AMGsygYMLw9rFR8L-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -104,7 +104,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-27" vertex="1">
           <mxGeometry x="45" y="280" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QBt9AMGsygYMLw9rFR8L-79" value="тренировки" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-27" edge="1">
+        <mxCell id="QBt9AMGsygYMLw9rFR8L-79" value="генерация абонемента&lt;br&gt;тренировок" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="450" as="sourcePoint" />
             <Array as="points">
@@ -115,7 +115,7 @@
             <mxPoint x="55" y="482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-1" value="проверка наличия&lt;br&gt;расписания" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="QBt9AMGsygYMLw9rFR8L-27">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-1" value="проверка наличия&lt;br&gt;расписания" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="350" as="sourcePoint" />
             <Array as="points">
@@ -147,7 +147,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-33" vertex="1">
           <mxGeometry x="45" y="564" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="QBt9AMGsygYMLw9rFR8L-80" value="снаряжение" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-33" edge="1">
+        <mxCell id="QBt9AMGsygYMLw9rFR8L-80" value="генерация снаряжения" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57.00000000000023" y="620" as="sourcePoint" />
             <Array as="points">
@@ -164,7 +164,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-34" vertex="1">
           <mxGeometry x="45" y="678" width="10" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QBt9AMGsygYMLw9rFR8L-81" value="мерч" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-34" edge="1">
+        <mxCell id="QBt9AMGsygYMLw9rFR8L-81" value="генерация мерча" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="QBt9AMGsygYMLw9rFR8L-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="720" as="sourcePoint" />
             <Array as="points">
@@ -181,7 +181,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-35" vertex="1">
           <mxGeometry x="45" y="447" width="10" height="533" as="geometry" />
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QBt9AMGsygYMLw9rFR8L-35">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QBt9AMGsygYMLw9rFR8L-35" vertex="1">
           <mxGeometry x="45" y="1000" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QBt9AMGsygYMLw9rFR8L-39" value="ввод роста и веса" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
@@ -199,7 +199,7 @@
         <mxCell id="QBt9AMGsygYMLw9rFR8L-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="925" y="594" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QBt9AMGsygYMLw9rFR8L-43" value="добавить тренировки в карзину" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+        <mxCell id="QBt9AMGsygYMLw9rFR8L-43" value="добавление абонемента тренировок в корзину" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="735" y="580" as="sourcePoint" />
             <mxPoint x="1325" y="580" as="targetPoint" />
@@ -329,19 +329,19 @@
             <mxPoint x="1525" y="926" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBt9AMGsygYMLw9rFR8L-52" value="добавить снаряжение в корзину" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+        <mxCell id="QBt9AMGsygYMLw9rFR8L-52" value="добавить снаряжения в корзину" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="935" y="740" as="sourcePoint" />
             <mxPoint x="1325" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-4" value="отображение абонемента" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-4" value="отображение абонемента" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1525" y="1081" as="sourcePoint" />
             <mxPoint x="534" y="1081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fsXGo9i8pw5_xdY82n7R-6" value="абонемент" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="fsXGo9i8pw5_xdY82n7R-6" value="абонемент" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="524" y="1109" as="sourcePoint" />
             <mxPoint x="134" y="1109" as="targetPoint" />
